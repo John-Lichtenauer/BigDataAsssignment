@@ -1,0 +1,62 @@
+{{Third-party|date=February 2018}}
+
+{{Infobox comics character<!--Wikipedia:WikiProject Comics-->
+|image=File:Unstopable_Wasp_1_variant.jpg
+|character_name=The Wasp
+|real_name=Nadia van Dyne
+|species= Human Mutate
+|publisher=[[Marvel Comics]]
+|debut=''Free Comic Book Day 2016 Civil War II'' (July, 2016)
+|creators=[[Mark Waid]] (writer)<br>[[Alan Davis]] (artist)
+|aliases=
+|alliances=[[Avengers (comics)|Avengers]]<br>[[All-New, All-Different Avengers]]<br>[[Champions (2016 team)|Champions]]
+|partners=
+|powers=
+* Size manipulation
+* Flight
+* Bio-electric energy blasts
+* Telepathic insect control
+}}
+
+'''Nadia van Dyne''' is a [[fictional character]] appearing in [[American comic book]]s published by [[Marvel Comics]]. Created by [[Mark Waid]] and [[Alan Davis]], the character first appeared in ''Free Comic Book Day 2016 Civil War II'' (July, 2016).
+
+==Fictional character biography==
+It was revealed that Hank Pym had a daughter named Nadia through Maria Trovaya who was abducted and supposedly killed by foreign agents. This caused Nadia to be raised in the [[Red Room (comics)|Red Room]] until the day she obtained a Pym Particle sample that enabled her to escape.<ref name="Nadia">''All-New, All-Different Avengers'' #9</ref> Upon heading to where her father lived, Nadia learned about what happened to Hank and used some parts of her father's costume and some materials laying around where she created a new version of the Wasp suit.<ref>''Free Comic Book Day Avengers 2016''</ref> Upon becoming the third Wasp, Nadia plans to obtain the admiration of her father's allies. After earning the trusts of the Avengers after stabilizing Vision, Edwin Jarvis took Nadia on a road trip to meet her extended family.<ref name="Nadia" /> Nadia meets Janet and spends the day with her. They save the president and then have a moment together.<ref>''All-New, All-Different Avengers'' #12</ref> It soon becomes apparent that Nadia was out of touch with reality, believing that everything could be fixed by her science skills because "she was good". However, despite learning the harsh truth of reality, Janet comforted her and felt she had the potential to become a true hero.<ref>''All-New, All-Different Avengers'' #14</ref>
+
+Nadia soon joins the [[Avengers (comics)|Avengers]] and gains [[Citizenship of the United States|U.S. citizenship]]. Upon realizing that the most intelligent women on [[S.H.I.E.L.D.]]'s index don't list any women above the 27th place, she jump starts the program G.I.R.L. (Genius In action Research Labs) to look for women with genius intellects.<ref>''The Unstoppable Wasp'' #1-2</ref> When deciding her legal name, Nadia realizes that she can't take the name 'Pym' as she never knew much about her biological mother and father. She decides to take the surname 'van Dyne' as Janet was the only person there for her and believed in her success.<ref>''The Unstoppable Wasp'' #8</ref>
+
+==Powers and abilities==
+Making use of the cellular implantation of sub-atomic Pym particles, the Wasp possesses the power to alter her physical size, causing her body's mass to be shunted to or gained from an alternate dimension known as Kosmos. She is able to shrink to a minimum of several centimeters or grow to a maximum of several hundred feet. Smaller or larger sizes are possible but the exertion puts a strain on her body. 
+
+==Other versions==
+{{Main|Hope Pym}}
+In the MC2 universe, the daughter of Hank Pym and Janet van Dyne is Hope Pym, also known as the supervillain Red Queen. She and her brother [[Henry Pym Jr.]] (aka Big Man) are part of a team called the [[Revengers#MC2|Revengers]].
+
+==Collected editions==
+{| class="wikitable"
+|-
+! Title !! Material collected !! Publication date !! ISBN
+|-
+| '''The Unstoppable Wasp Vol. 1: Unstoppable!'''
+| ''The Unstoppable Wasp'' #1–4 and ''All-New, All-Different Avengers'' #14
+| September 12, 2017
+| {{ISBNT|978-1302906467}}
+|-
+| '''The Unstoppable Wasp Vol. 2: Agents of G.I.R.L.'''
+| ''The Unstoppable Wasp'' #5-8 and ''Tales to Astonish'' #44
+| March 13, 2018 
+| {{ISBNT|978-1302906474}}
+|}
+
+==References==
+{{reflist}}
+
+{{Henry Pym}}
+
+[[Category:Characters created by Mark Waid]]
+[[Category:Characters created by Alan Davis]]
+[[Category:Comics characters introduced in 2016]]
+[[Category:Female characters in comics]]
+[[Category:Fictional characters who can change size]]
+[[Category:Marvel Comics mutates]]
+[[Category:Marvel Comics superheroes]]
